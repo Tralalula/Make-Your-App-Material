@@ -1,0 +1,7 @@
+<resources>
+    <!-- List -->
+    <integer name="list_num_columns_mobile_portrait">2</integer>
+    <integer name="list_num_columns_mobile_landscape">4</integer>
+    <integer name="list_num_columns_tablet_portrait">3</integer>
+    <integer name="list_num_columns_tablet_landscape">5</integer>
+</resources>

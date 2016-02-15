@@ -1,0 +1,56 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+
+    <color name="theme_primary">@color/orange_theme_primary</color>
+    <color name="theme_primary_dark">@color/orange_theme_primary_dark</color>
+    <color name="theme_primary_light">@color/orange_theme_primary_light</color>
+    <color name="theme_text_icons">@color/orange_theme_text_icons</color>
+    <color name="theme_accent">@color/orange_theme_accent</color>
+    <color name="theme_primary_text">@color/orange_theme_primary_text</color>
+    <color name="theme_secondary_text">@color/orange_theme_secondary_text</color>
+    <color name="theme_divider_color">@color/orange_theme_divider_color</color>
+
+    <!--
+    I've created this palette/scheme by using the online tool from materialpalette.com,
+    this is the following scheme I've got: https://www.materialpalette.com/orange/deep-orange
+    But I've adjusted the primary, primary dark & accent a bit,
+    with some colors I got by using the Adobe Kuler on the ic_launcher picture, hopefully it's a bit better than the standard.
+    -->
+    <color name="orange_theme_primary">#FF9800</color>
+    <color name="orange_theme_primary_dark">#FF8000</color>
+    <color name="orange_theme_primary_light">#FFE0B2</color>
+    <color name="orange_theme_text_icons">#212121</color>
+    <color name="orange_theme_accent">#F35123</color>
+    <color name="orange_theme_primary_text">#212121</color>
+    <color name="orange_theme_secondary_text">#727272</color>
+    <color name="orange_theme_divider_color">#B6B6B6</color>
+
+    <!-- List -->
+    <color name="list_thumbnail_background_color">@color/theme_primary_light</color>
+    <color name="list_article_title_text_color">@color/theme_primary_text</color>
+    <color name="list_article_subtitle_text_color">@color/theme_secondary_text</color>
+
+    <!-- Detail -->
+    <color name="detail_article_body_text_color">@color/theme_primary_text</color>
+    <color name="detail_article_body_text_color_link">@color/theme_accent</color>
+
+    <!-- DetailsToolbar -->
+    <color name="details_toolbar_text_color">@color/white</color>
+</resources>

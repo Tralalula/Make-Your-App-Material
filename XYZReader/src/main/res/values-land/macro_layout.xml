@@ -1,0 +1,7 @@
+<resources>
+    <!-- Detail -->
+    <dimen name="detail_article_body_margin_sides">@dimen/detail_article_body_mobile_landscape_margin_sides</dimen>
+
+    <!-- List -->
+    <integer name="list_num_of_columns">@integer/list_num_columns_mobile_landscape</integer>
+</resources>

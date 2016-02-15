@@ -1,0 +1,62 @@
+<resources>
+    <!-- Common margin sizes -->
+    <dimen name="mini_margin">4dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+
+    <!-- Common padding sizes -->
+    <dimen name="mini_padding">4dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+
+    <!-- Common text sizes -->
+    <dimen name="standard_small_text_size">14sp</dimen>
+    <dimen name="standard_text_size">16sp</dimen>
+    <dimen name="medium_small_text_size">18sp</dimen>
+    <dimen name="medium_text_size">20sp</dimen>
+    <dimen name="large_text_size">24sp</dimen>
+
+    <!-- Detail -->
+    <dimen name="detail_app_bar_mobile_layout_height">192dp</dimen>
+    <dimen name="detail_app_bar_tablet_standard_layout_height">288dp</dimen>
+    <dimen name="detail_app_bar_tablet_big_layout_height">384dp</dimen>
+
+    <dimen name="detail_collapsing_toolbar_layout_expanded_title_margin_start">72dp</dimen>
+
+    <dimen name="detail_toolbar_content_inset_start">72dp</dimen>
+
+    <dimen name="detail_article_body_margin_top">@dimen/standard_margin</dimen>
+    <dimen name="detail_article_body_padding_bottom">64dp</dimen>
+    <dimen name="detail_article_body_mobile_portrait_margin_sides">@dimen/standard_margin</dimen>
+    <dimen name="detail_article_body_mobile_landscape_margin_sides">72dp</dimen>
+    <dimen name="detail_article_body_tablet_margin_sides">72dp</dimen>
+    <dimen name="detail_article_body_mobile_text_size">@dimen/standard_text_size</dimen>
+    <dimen name="detail_article_body_tablet_text_size">@dimen/medium_text_size</dimen>
+
+    <dimen name="detail_share_fab_margin">@dimen/standard_margin</dimen>
+
+    <!-- List -->
+    <dimen name="list_card_view_margin">@dimen/mini_margin</dimen>
+
+    <dimen name="list_dynamic_height_network_image_view_layout_height">100dp</dimen>
+
+    <dimen name="list_article_title_padding_bottom">@dimen/mini_padding</dimen>
+    <dimen name="list_article_title_padding_left">@dimen/standard_padding</dimen>
+    <dimen name="list_article_title_padding_right">@dimen/standard_padding</dimen>
+    <dimen name="list_article_title_padding_top">@dimen/standard_padding</dimen>
+    <dimen name="list_article_title_mobile_text_size">@dimen/standard_text_size</dimen>
+    <dimen name="list_article_title_tablet_text_size">@dimen/medium_text_size</dimen>
+
+    <dimen name="list_article_subtitle_padding">@dimen/standard_padding</dimen>
+    <dimen name="list_article_subtitle_mobile_text_size">@dimen/standard_small_text_size</dimen>
+    <dimen name="list_article_subtitle_tablet_text_size">@dimen/medium_small_text_size</dimen>
+
+    <dimen name="list_recycler_view_side_padding">@dimen/mini_padding</dimen>
+    <dimen name="list_recycler_view_padding_bottom">@dimen/standard_padding</dimen>
+    <dimen name="list_recycler_view_mobile_padding_top">60dp</dimen>
+    <dimen name="list_recycler_view_tablet_padding_top">72dp</dimen>
+
+    <!-- DetailsToolbar -->
+    <dimen name="details_toolbar_mobile_text_size">@dimen/medium_text_size</dimen>
+    <dimen name="details_toolbar_tablet_text_size">@dimen/large_text_size</dimen>
+</resources>

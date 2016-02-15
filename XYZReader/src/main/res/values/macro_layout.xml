@@ -1,0 +1,20 @@
+<resources>
+    <!-- Detail -->
+    <dimen name="detail_app_bar_layout_height">@dimen/detail_app_bar_mobile_layout_height</dimen>
+
+    <dimen name="detail_article_body_margin_sides">@dimen/detail_article_body_mobile_portrait_margin_sides</dimen>
+    <dimen name="detail_article_body_text_size">@dimen/detail_article_body_mobile_text_size</dimen>
+
+    <!-- List -->
+    <integer name="list_num_of_columns">@integer/list_num_columns_mobile_portrait</integer>
+
+    <dimen name="list_article_title_text_size">@dimen/list_article_title_mobile_text_size</dimen>
+    <dimen name="list_article_subtitle_text_size">@dimen/list_article_subtitle_mobile_text_size</dimen>
+    <dimen name="list_recycler_view_padding_top">@dimen/list_recycler_view_mobile_padding_top</dimen>
+
+    <!-- DetailsToolbar -->
+    <style name="DetailsToolbar">
+        <item name="android:textSize">@dimen/details_toolbar_mobile_text_size</item>
+        <item name="android:textColor">@color/details_toolbar_text_color</item>
+    </style>
+</resources>
